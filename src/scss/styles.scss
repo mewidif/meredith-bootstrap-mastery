@@ -24,3 +24,15 @@
 
 // Custom styles:
 
+.jumbotron {
+  background-image: url(../img/pirate-ship.jpg);
+  background-size: cover;
+  position: center;
+  background-repeat: no-repeat;
+  padding: 3rem;
+}
+
+footer {
+  background-color: rgb(61, 131, 169);
+}
+
