@@ -29,6 +29,7 @@
   background-size: cover;
   position: center;
   background-repeat: no-repeat;
+  font-family: "Jacquarda Bastarda 9", sans-serif;
   padding: 3rem;
 }
 
@@ -36,3 +37,10 @@ footer {
   background-color: rgb(61, 131, 169);
 }
 
+.row {
+  padding: 1rem;
+}
+
+.byline {
+  font-style: italic;
+}
