@@ -44,3 +44,12 @@ footer {
 .byline {
   font-style: italic;
 }
+
+#carouselExampleCaptions {
+  padding: 1rem;
+
+  .carousel-caption {
+    text-align: left;
+    color: white;
+  }
+}
