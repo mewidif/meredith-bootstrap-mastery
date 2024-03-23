@@ -49,7 +49,12 @@ footer {
   padding: 1rem;
 
   .carousel-caption {
-    text-align: left;
+    text-align: center;
     color: white;
+    text-shadow: 2px 2px 2px black;
   }
+}
+
+a:hover {
+  text-decoration: underline;
 }
